@@ -9,6 +9,7 @@ Plataforma movil para la supervision en tiempo real de sensores ambientales, ges
 </div>
 
 ---
+<img width="540" height="1452" alt="image" src="https://github.com/user-attachments/assets/b7bd2006-34a7-4467-9f40-4e51c5778b6c" />
 
 ## Tabla de contenidos
 
